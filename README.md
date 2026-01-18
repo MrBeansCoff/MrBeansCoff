@@ -30,11 +30,7 @@
 
 ![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&QR%20%20Below-red?logo=monero)
 
-<p align="center">
-
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
-
-</p>
 
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
@@ -42,11 +38,8 @@
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)
 
-<p align="center">
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
-
-</p>
 
 ```bash
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4

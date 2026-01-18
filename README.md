@@ -23,8 +23,9 @@
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourapiholb&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yourapiholb)
 
 <details>
-  <summary>Some Details About my Page</summary>
-   were developing so well add more content here later
+  <summary>Why Donations?</summary>
+   Because if not the work would be as senseless as opening the details to read this...
+   ...Seriously
 </details>
 
 
@@ -40,7 +41,7 @@
 
 </p>
 
-![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address&Qr%20Below-red?logo=monero&)
+![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&QR%20%20Below-red?logo=monero)
 
 <p align="center">
 
@@ -51,4 +52,7 @@
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)
+
 

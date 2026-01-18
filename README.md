@@ -27,13 +27,13 @@
    were developing so well add more content here later
 </details>
 
-<p align="left">
-
 ![GitHub top language](https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff)
 
-![LangJS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge)
+<p align="left">
 
-![HTML5](https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=for-the-badge&logo=html5&label=HTML)
+<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=for-the-badge&logo=html5&label=HTML"/>
+
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
 </p>
 

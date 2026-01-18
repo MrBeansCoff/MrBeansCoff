@@ -28,7 +28,7 @@
 </details>
 
 
-![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)
+[![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)](https://www.kraken.com/prices/monero)
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
 

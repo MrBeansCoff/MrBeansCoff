@@ -1,22 +1,6 @@
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
-  <a href="https://github.com/MrBeansCoff/MrBeansCoff/stargazers">
-    <img src="https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?style=social" />
-  </a>
-  <a href="https://github.com/MrBeansCoff/MrBeansCoff/commits">
-    <img src="https://img.shields.io/github/commit-activity/t/MrBeansCoff/MrBeansCoff?style=social" />
-  </a>
-  <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
-    <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff?style=social" />
-  </a>
-
-  <a href="https://github.com/MrBeansCoff/MrBeansCoff/watchers">
-   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
 </p>
 
@@ -72,6 +56,24 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+
+<p align="center">
+  <a href="https://github.com/MrBeansCoff/MrBeansCoff/stargazers">
+    <img src="https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?style=social" />
+  </a>
+  <a href="https://github.com/MrBeansCoff/MrBeansCoff/commits">
+    <img src="https://img.shields.io/github/commit-activity/t/MrBeansCoff/MrBeansCoff?style=social" />
+  </a>
+  <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
+    <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff?style=social" />
+  </a>
+
+  <a href="https://github.com/MrBeansCoff/MrBeansCoff/watchers">
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
+  </a>
+</p>
+  
 </td>
 </table>
 

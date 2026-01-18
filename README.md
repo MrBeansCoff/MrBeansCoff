@@ -76,10 +76,9 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </td>
 
 <tr>
+  <th>New Section</th>
 <td>
-<div align="let">
-  <a href="@">New column</a>
-</div>
+Add some placeholder content here
 </td>
 </tr>
 </table>

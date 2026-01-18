@@ -75,7 +75,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </div>
 </td>
 
-<tr>
+<tr rowspan="1">
   <th>Contributions Snake</th>
 </tr>
 <td>

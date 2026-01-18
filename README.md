@@ -1,6 +1,6 @@
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
-[![GitHub stars](https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?style=for-the-badge)](https://github.com/MrBeansCoff?tab=stars)
+[![GitHub stars](https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?)](https://github.com/MrBeansCoff?tab=stars)
 
 [![Repos](https://img.shields.io/github/commit-activity/MrBeansCoff/MrBeansCoff.svg?style=for-the-badge)](https://github.com/MrBeansCoff?tab=commits)
 

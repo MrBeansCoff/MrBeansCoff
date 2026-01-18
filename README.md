@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff" />
   </a>
 
-  <img src="https://shields.io/badges/spiget-rating" />
+  <img src="https://img.shields.io/github/badges/spiget-rating" />
 
 </p>
 

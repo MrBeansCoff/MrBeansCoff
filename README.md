@@ -1,6 +1,10 @@
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
+*Café MrBean’s Coffs*
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
 </p>
 

@@ -1,7 +1,7 @@
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
-*Café MrBean’s Coffs*
+Café MrBean’s Coffs
 </p>
 
 <p align="center">
@@ -87,9 +87,15 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
 </p>
-  
+
+  <p align="center">Profile Viewers</p>
+  <div align="center">
+  <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+   </div>
+
 </td>
 </table>
+
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 

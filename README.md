@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/github/commit-activity/t/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
-    <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoffstyle=social" />
+    <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
 
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/watchers">
-   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoffstyle=social" />
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
 </p>
 

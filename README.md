@@ -65,21 +65,22 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </p>
 </td>
 
-
-  <td>
-    <div align="center">
+<td>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
+</td>
+
 <td>
 <div align="let">
   <a href="@">New column</a>
 </div>
 </td>
-  </td>
+
 </table>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />

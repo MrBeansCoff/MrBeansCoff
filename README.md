@@ -27,9 +27,10 @@
    were developing so well add more content here later
 </details>
 
-![GitHub top language](https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff)
 
 <p align="left">
+
+<img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
 <img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=for-the-badge&logo=html5&label=HTML"/>
 

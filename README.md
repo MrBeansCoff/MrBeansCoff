@@ -27,24 +27,37 @@
   I don't know why for now...
 </details>
 
+<table>
+  <tr>
+    <th>Dontate Monero</th>
+    <th>Dontate Bitcoin</th>
+  </tr>  
 
-[![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)](https://www.kraken.com/prices/monero)
+<td>
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
+<a href="https://www.kraken.com/prices/monero">
+<img src="https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero"/>
+</a>
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
 
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```
+</td>
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)](https://www.blockchain.com/explorer/prices)
+<td>
+<a href="https://www.blockchain.com/explorer/prices">
+<img src="https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin"/>
+</a>
 
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
 
 ```bash
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
-
+</td>
+</table>
 
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />

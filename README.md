@@ -30,7 +30,6 @@
 <table>
   <tr>
     <th>Dontate Monero</th>
-    <th>Dontate Bitcoin</th>
   </tr>  
 
 <td>
@@ -46,6 +45,9 @@
 ```
 </td>
 
+<tr>
+  <th>Donate Bitcoin</th>
+</tr>
 <td>
 <a href="https://www.blockchain.com/explorer/prices">
 <img src="https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin"/>

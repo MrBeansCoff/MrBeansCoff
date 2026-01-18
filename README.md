@@ -36,7 +36,7 @@
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
-<img src="https://img.shields.io/badge/PHP?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/badge/PHP-purple?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 
 </p>
 

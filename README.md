@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?style=social" />
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/commits">
-    <img src="https://img.shields.io/github/commit-activity/MrBeansCoff/MrBeansCoff?style=social" />
+    <img src="https://img.shields.io/github/commit-activity/t/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff?style=social" />
@@ -36,7 +36,7 @@
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
-<img src="https://img.shields.io/badge/MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/badge/PHP?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 
 </p>
 

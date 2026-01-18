@@ -1,4 +1,4 @@
-[![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)](https://github.com/MrBeansCoff)
+![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/stargazers">

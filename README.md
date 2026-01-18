@@ -73,7 +73,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
 
 
-</td>
+
 
 </tr>
 

@@ -32,11 +32,11 @@
 
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
-<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=for-the-badge&logo=html5&label=HTML"/>
+<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=flat&logo=html5&label=HTML"/>
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
-<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=purple&style=for-the-badge&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 
 </p>
 

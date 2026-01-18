@@ -46,11 +46,13 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
 
-<table align="cetner">
+<table>
 
 <tr>
 <th>MrBeansCoffs Skills</th>
-<td colspan="2">
+<th>Stats</th>
+</tr> 
+<td>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
@@ -62,10 +64,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 </p>
 </td>
-</tr>
 
-<tr>
-  <th>Stats</th>
+
   <td>
     <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

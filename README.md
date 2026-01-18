@@ -57,10 +57,24 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 </td>
 
-
-<td colspan="2" rowspan="2">
+<th>Some Common Languages</th>
+<td colspan="3" rowspan="2">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+
+<p align="left">
+
+<img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
+
+<img src="https://img.shields.io/badge/HTML5-Lang?labelColor=grey&style=flat&logo=html5&color=red"/>
+
+<img src="https://img.shields.io/badge/JAVASCRPT-Lang?logo=javascript&labelColor=grey&color=yellow&style=for=the=badge" />
+
+<img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
+
+</p>
+</td>
 
 </tr>
 

@@ -47,9 +47,9 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 
 <table>
-<tr rowspan="1">
+
 <th>User Data Table</th>
-</tr>
+
 <td colspan="1" rowspan="1">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -59,7 +59,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <th>Some Common Languages</th>
 
-<td colspan="1" rowspan="2">
+<tr colspan="1" rowspan="2">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
@@ -73,7 +73,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
 
 
-</td>
+</tr>
 
 
 </table>

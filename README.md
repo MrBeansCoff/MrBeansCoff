@@ -36,7 +36,7 @@
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)][link](https://www.blockchain.com/explorer/prices)]
 
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />

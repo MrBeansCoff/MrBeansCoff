@@ -49,7 +49,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <table align="cetner">
 
 <tr>  
-  <th>MrBeansCoffs Skills and Stats</th>
+  <th>Skills</th>
+  <th>Stats</th>
 </tr>
 
 <tr>
@@ -71,8 +72,3 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph.svg">
-</picture>

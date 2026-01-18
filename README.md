@@ -24,8 +24,7 @@
 
 <details>
   <summary>Why Donations?</summary>
-   Because if not the work would be as senseless as opening the details to read this...
-   ...Seriously
+  I don't know why for now...
 </details>
 
 

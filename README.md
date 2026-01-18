@@ -58,8 +58,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <img src="https://img.shields.io/badge/HTML5-Lang?labelColor=grey&style=flat&logo=html5&color=red"/>
 
-<img src="https://img.shields.io/badge/JAVASCRPT-Lang?logo=javascript&color=yellow&style=for=the=badge" />
+<img src="https://img.shields.io/badge/JAVASCRPT-Lang?logo=javascript&labelColor=grey&color=yellow&style=for=the=badge" />
 
-<img src="https://img.shields.io/badge/PHP-purple?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
 
 </p>

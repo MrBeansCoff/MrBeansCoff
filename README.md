@@ -45,18 +45,6 @@
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
-<table>
-  <tr>
-    <td colspan="1">!st </td>
-    <th colspan="1">hello</th>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <ul><li>first list</li></ul>
-    </td>
-    
-  </tr>
-</table>
 
 <p align="left">
 

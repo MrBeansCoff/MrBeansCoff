@@ -10,6 +10,10 @@
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff" />
   </a>
+
+  <a href="https://github.com/MrBeansCoff/MrBeansCoff/watchers">
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeanCoff/MrBeanCoff" />
+  </a>
 </p>
 
 <p align="center">

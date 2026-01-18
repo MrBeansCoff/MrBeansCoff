@@ -49,6 +49,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   <tr>
     <td colspan="1">!st </td>
     <th colspan="1">hello</th>
+    <td rowspan="2">first things first
+      <ul><li>first list</li></ul>
   </tr>
 </table>
 

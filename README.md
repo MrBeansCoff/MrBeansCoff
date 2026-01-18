@@ -56,9 +56,9 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
-<img src="https://img.shields.io/badge/HTML5-Language?labelColor=grey&style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/HTML5-Lang?labelColor=grey&style=flat&logo=html5&color=red"/>
 
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
+<img src="https://img.shields.io/badge/JAVASCRPT-Lang?logo=javascript&color=yellow&style=for=the=badge" />
 
 <img src="https://img.shields.io/badge/PHP-purple?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 

@@ -28,18 +28,6 @@
 </details>
 
 
-<p align="left">
-
-<img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
-
-<img src="https://img.shields.io/badge/html-HTML?color=lightgreen&style=flat&logoSize=auto&logo=html5&label=HTML"/>
-
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
-
-<img src="https://img.shields.io/badge/PHP-purple?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
-
-</p>
-
 ![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&QR%20%20Below-red?logo=monero)
 
 <p align="center">
@@ -55,3 +43,15 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)
 
 
+
+<p align="left">
+
+<img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
+
+<img src="https://img.shields.io/badge/html-HTML?color=lightgreen&style=flat&logoSize=auto&logo=html5&label=HTML"/>
+
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
+
+<img src="https://img.shields.io/badge/PHP-purple?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+
+</p>

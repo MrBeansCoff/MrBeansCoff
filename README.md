@@ -104,6 +104,3 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
    </div>
 
 <!--Footer-->
-
-![footer image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
-

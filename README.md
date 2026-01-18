@@ -28,12 +28,15 @@
 </details>
 
 <p align="left">
+
 ![GitHub top language](https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff)
 
 ![LangJS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge)
 
 ![HTML5](https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=for-the-badge&logo=html5&label=HTML)
+
 </p>
+
 ```bash
 
 ```

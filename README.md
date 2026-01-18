@@ -42,21 +42,6 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
-
-<img src="https://img.shields.io/badge/HTML5-Lang?labelColor=grey&style=flat&logo=html5&color=red"/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-Lang?logo=javascript&labelColor=grey&color=yellow&style=for=the=badge" />
-
-<img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
-
-</p>
-</td>
-
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -76,6 +61,12 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
+
+</p>
+</td>
+
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 <p align="center">
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/stargazers">

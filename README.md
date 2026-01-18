@@ -10,9 +10,6 @@
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff" />
   </a>
-
-  <img src="https://img.shields.io/github/badges/spiget-rating" />
-
 </p>
 
 <p align="center">
@@ -25,6 +22,10 @@
   <summary>Some Details About my Page</summary>
    were developing so well add more content here later
 </details>
+
+Language Analytics
+
+![GitHub top language](https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff)
 
 ```bash
 

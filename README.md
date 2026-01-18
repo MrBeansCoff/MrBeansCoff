@@ -1,4 +1,4 @@
-[![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
+![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/stargazers">
@@ -9,6 +9,9 @@
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff" />
+  </a>
+  <a href="https://www.buymeacoffee.com/yourapiholb">
+    <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
   </a>
 </p>
 

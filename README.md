@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/watchers">
-   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeanCoff/MrBeanCoff" />
+   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff" />
   </a>
 </p>
 

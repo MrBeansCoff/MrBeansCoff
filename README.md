@@ -1,3 +1,4 @@
+<!--HEADER-->
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
@@ -8,6 +9,7 @@ Café MrBean’s Coff
   <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
 </p>
 
+<!--DONTAIONS Sec-->
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourapiholb&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yourapiholb)
 
 <details>
@@ -33,6 +35,7 @@ Café MrBean’s Coff
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
+<!--BEANS CAFE TABLE-->
 <p align="center">
  MrBeansCoffs Table
 </p>
@@ -42,8 +45,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
     <th>Languages</th>
     <th>Statistics</th>
   </tr>
+<!--LANGUAGE STATS-->
 <td>  
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <br></br>
 <div align="left">
@@ -65,10 +68,10 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
-
 </p>
 </td>
 
+<!--USER STATS-->
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
@@ -90,6 +93,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </td>
 </table>
 
+<!--CONTRIBUTIONS & PROFILE VIEWS--> 
 <p align="center">Contributions</p>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
@@ -98,3 +102,9 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   <div align="center">
   <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
    </div>
+
+<!--Footer-->
+
+<div>
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=C89d7c"  />
+</div>

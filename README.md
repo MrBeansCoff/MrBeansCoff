@@ -1,7 +1,7 @@
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
 <p align="center">
-Café MrBean’s Coffs
+Café MrBean’s Coff
 </p>
 
 <p align="center">

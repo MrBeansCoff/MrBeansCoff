@@ -40,7 +40,14 @@
 
 </p>
 
-![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20Below-red?logo=monero&)
+![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address&Qr%20Below-red?logo=monero&)
+
+<p align="center">
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
+
+</p>
+
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```

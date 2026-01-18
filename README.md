@@ -75,7 +75,6 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 </div>
   </td>
-</tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />

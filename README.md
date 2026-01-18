@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
-<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=dodgerblue&style=flat&logo=html5&label=HTML"/>
+<img src="https://img.shields.io/badges/html-blue?color=dodgerblue&style=flat&logo=html5&label=HTML"/>
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 

@@ -68,7 +68,6 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph-dark.svg">

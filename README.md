@@ -45,12 +45,14 @@
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
-<table>
+<table align="cetner">
 <tr>
+  
 <th>MrBeansCoffs Skills and Stats</th>
+  
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 

@@ -45,17 +45,12 @@
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
-<div align="center"
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-</div>
+<table>
+<tr>
+<th>MrBeansCoffs Skills and Stats</th>
+</tr>
+<tr>
+<td>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/MrBeansCoff/MrBeansCoff" />
 
@@ -66,7 +61,8 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <img src="https://img.shields.io/badge/PHP-Lang?color=purple&style=flat&labelColor=grey&logoSize=auto&logo=php" />
 
 </p>
-
-
+</td>
+</tr>
+</table>
 
 

@@ -76,13 +76,13 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </td>
 
 <tr>
-  <th>New Section</th>
-<td>
-Add some placeholder content here
-</td>
+  <th>Contributions Snake</th>
 </tr>
+<td>
+<img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
+</td>
 </table>
 
-<img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
+
 
 

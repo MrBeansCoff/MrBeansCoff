@@ -36,11 +36,11 @@
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
-<img src="https://img.shields.io/badge//MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/badge/MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 
 </p>
 
-![Monero](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20Below-red?logo=monero&)
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```

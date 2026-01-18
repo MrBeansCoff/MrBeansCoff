@@ -87,16 +87,14 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
 </p>
-
-  <p align="center">Profile Viewers</p>
-  <div align="center">
-  <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-   </div>
-
 </td>
 </table>
 
+<p align="center">Contributions</p>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
-
+  <p align="center">Profile Views </p>
+  <div align="center">
+  <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+   </div>

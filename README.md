@@ -48,7 +48,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <table>
 
-<tr>
+<tr colspan="3">
 <th>MrBeansCoffs Skills</th>
 <th>Stats</th>
 </tr> 

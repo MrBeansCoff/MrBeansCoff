@@ -36,11 +36,11 @@
 
 <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=yellow&label=JAVASCRIPT&style=for=the=badge" />
 
-<img src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
+<img src="https://img.shields.io/badge//MrBeansCoff/MrBeansCoff?color=purple&style=flat&labelColor=white&logoSize=auto&logo=php&label=PHP" />
 
 </p>
 
-![MoneroImage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWxUMLeP3Ea3MlvIfcwMSmVQvM4I0V_XbFQ&s)
+![Monero](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ```bash
 8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
 ```

@@ -48,7 +48,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <table>
 
-<tr rowspan="3">
+<tr>
 <th>MrBeansCoffs Skills</th>
 <th>Stats</th>
 </tr> 
@@ -75,12 +75,13 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </div>
 </td>
 
+<tr>
 <td>
 <div align="let">
   <a href="@">New column</a>
 </div>
 </td>
-
+</tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />

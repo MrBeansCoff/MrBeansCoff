@@ -75,9 +75,6 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </div>
 </td>
 
-<tr colspan="1">
-  <th>Contributions Snake</th>
-</tr>
 <td>
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 </td>

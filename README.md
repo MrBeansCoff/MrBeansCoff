@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/stars/MrBeansCoff/MrBeansCoff.svg?style=social" />
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/commits">
-    <img src="https://img.shields.io/github/commit-activity/t/MrBeansCoff/MrBeansCoff?style=social" />
+    <img src="https://img.shields.io/github/commit-activity/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
   <a href="https://github.com/MrBeansCoff/MrBeansCoff/network/members">
     <img src="https://img.shields.io/github/forks/MrBeansCoff/MrBeansCoff?style=social" />

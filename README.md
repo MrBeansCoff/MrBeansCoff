@@ -1,11 +1,17 @@
 <!--HEADER-->
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
-
+<div align="center">
+<table>
+<tr> 
+<th>
 <p align="center">
 <code>Café MrBean’s Coff ☕︎</code>
 </p>
-
+</tr> 
+</th>  
+</table>
+</div>
 
 <table>
   <tr>
@@ -65,11 +71,13 @@
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
 <table>
   <tr>
     <th><p align="center"><code>Views & Dontations</code></p></th>
   </tr> 
 </table>
+</div>
 
 <div align="center">
 <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />

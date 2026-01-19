@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<code>Café MrBean’s Coff</code>
+<code>Café MrBean’s Coff ☕︎</code>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 <code>MrBeansCoffs Table</code>
 </p>
 
-<div align="center">
+
 <table>
   <tr>
     <th>Languages</th>
@@ -94,16 +94,17 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </p>
 </td>
 </table>
-</div>
+
 
 <!--CONTRIBUTIONS & PROFILE VIEWS--> 
 <p align="center"><code>Contributions</code></p>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
-  <p align="center"><code>Profile Views</code></p>
-  <div align="center">
-  <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-   </div>
+<p align="center"><code>Profile Views</code></p>
+
+<div align="center">
+<img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 <!--Footer-->

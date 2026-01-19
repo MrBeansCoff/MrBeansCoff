@@ -1,6 +1,7 @@
 <!--HEADER-->
 ![header image](https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg)
 
+
 <p align="center">
 Café MrBean’s Coff
 </p>
@@ -47,6 +48,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   </tr>
 <!--LANGUAGE STATS-->
 <td>  
+`my languages`  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <br></br>
 <div align="left">

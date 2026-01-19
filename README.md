@@ -7,13 +7,6 @@
 </p>
 
 
-
-<!--BEANS CAFE TABLE-->
-<p align="center">
-<code>MrBeansCoffs Table</code>
-</p>
-
-
 <table>
   <tr>
     <th>Languages</th>
@@ -80,6 +73,9 @@
 </div>
 
 <!--Footer-->
+<p align="center">
+<code>Donations</code>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
 </p>

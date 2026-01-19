@@ -111,8 +111,9 @@
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
 
+<div style="width: 150px">
 ```bash
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
-
-<img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />
+</div>
+<img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

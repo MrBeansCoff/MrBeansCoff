@@ -65,7 +65,11 @@
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
-<p align="center"><code>Views & Dontations</code></p>
+<table>
+  <tr>
+    <th><p align="center"><code>Views & Dontations</code></p></th>
+  </tr> 
+</table>
 
 <div align="center">
 <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />

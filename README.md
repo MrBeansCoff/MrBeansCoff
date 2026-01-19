@@ -6,13 +6,10 @@
 <tr> 
 <th>
 <p align="center">
-<code>Café MrBean’s Coff ☕︎</code>
+<sub>Café MrBean’s Coff ☕︎</sub>
 </p>
 </th>
 </th>
-  <td>
-    <img src="https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg"/>
-  </td>
 </table>
 </div>
 

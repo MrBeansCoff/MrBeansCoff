@@ -62,20 +62,16 @@
 
 
 <!--CONTRIBUTIONS & PROFILE VIEWS--> 
-<p align="center"><code>Contributions</code></p>
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
 
-<p align="center"><code>Profile Views</code></p>
+<p align="center"><code>Views & Dontations</code></p>
 
 <div align="center">
 <img src="https://count.getloli.com/@:MrBeansCoff?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 <!--Footer-->
-<p align="center">
-<code>Donations</code>
-</p>
 <p align="center">
   <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
 </p>

@@ -38,13 +38,14 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <!--BEANS CAFE TABLE-->
 <p align="center">
- MrBeansCoffs Table
+<code>MrBeansCoffs Table</code>
 </p>
 
+<div align="center">
 <table>
   <tr>
-    <th><code>Languages</code></th>
-    <th><code>Statistics</code></th>
+    <th>Languages</th>
+    <th>Statistics</th>
   </tr>
 <!--LANGUAGE STATS-->
 <td>   
@@ -93,6 +94,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </p>
 </td>
 </table>
+</div>
 
 <!--CONTRIBUTIONS & PROFILE VIEWS--> 
 <p align="center"><code>Contributions</code></p>

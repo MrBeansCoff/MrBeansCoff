@@ -43,12 +43,11 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 <table>
   <tr>
-    <th>Languages</th>
+    <th><code>Languages</code></th>
     <th>Statistics</th>
   </tr>
 <!--LANGUAGE STATS-->
-<td>  
-`my languages`  
+<td>   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBeansCoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <br></br>
 <div align="left">

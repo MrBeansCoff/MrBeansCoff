@@ -6,35 +6,7 @@
 <code>Café MrBean’s Coff ☕︎</code>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
-</p>
 
-<!--DONTAIONS Sec-->
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourapiholb&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yourapiholb)
-
-<details>
-  <summary>Why Donations?</summary>
-  I don't know why for now...
-</details>
-
-
-[![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)](https://www.kraken.com/prices/monero)
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
-
-```bash
-8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
-```
-
-[![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)](https://www.blockchain.com/explorer/prices)
-
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
-
-```bash
-bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
-```
 
 <!--BEANS CAFE TABLE-->
 <p align="center">
@@ -108,3 +80,32 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 </div>
 
 <!--Footer-->
+<p align="center">
+  <img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" />
+</p>
+
+<!--DONTAIONS Sec-->
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourapiholb&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yourapiholb)
+
+<details>
+  <summary>Why Donations?</summary>
+  I don't know why for now...
+</details>
+
+
+[![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)](https://www.kraken.com/prices/monero)
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/df99d826-bfbe-4bca-b5a9-e3977714f410" />
+
+```bash
+8BtHVcAQCixNS8B5iNwJQANjuBToR7HnKJfzvTY7V4tKMmmsb9C1TBxaCQrS7yUUsCaEghRYvgzcMN5exEEwbxAv78QBvUt
+```
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin%20Donations%20Accepted-Wallet%20Address%20&%20QR%20Below-yellow?logo=bitcoin&)](https://www.blockchain.com/explorer/prices)
+
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac7e2931-d1e0-4b71-9c4a-29fce9957f9d" />
+
+```bash
+bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
+```

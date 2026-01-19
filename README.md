@@ -6,7 +6,7 @@
 <tr> 
 <th>
 <p align="center">
-Café MrBean’s Coff ☕︎
+<sub>Café MrBean’s Coff ☕︎</sub>
 </p>
 </th>
 </th>
@@ -66,15 +66,16 @@ Café MrBean’s Coff ☕︎
 </td>
 </table>
 
-
 <!--CONTRIBUTIONS & PROFILE VIEWS--> 
 
 <img src="https://raw.githubusercontent.com/MrBeansCoff/MrBeansCoff/output/snake.svg" alt="Snake animation" />
+<br></br>
+
 
 <div align="center">
 <table>
   <tr>
-    <th><p align="center"><code>Views & Dontations</code></p></th>
+    <th><p align="center"><sub>Views & Dontations</sub></p></th>
   </tr> 
 </table>
 </div>

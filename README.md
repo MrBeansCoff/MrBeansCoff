@@ -8,8 +8,11 @@
 <p align="center">
 <code>Café MrBean’s Coff ☕︎</code>
 </p>
-</tr> 
-</th>  
+</th>
+</th>
+  <td>
+    <img src="https://github.com/MrBeansCoff/MrBeansCoff/blob/main/BeanPods/9392903.jpg"/>
+  </td>
 </table>
 </div>
 

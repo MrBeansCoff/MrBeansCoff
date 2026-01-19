@@ -6,7 +6,7 @@
 <tr> 
 <th>
 <p align="center">
-<sup>Café MrBean’s Coff ☕︎</sup>
+Café MrBean’s Coff ☕︎
 </p>
 </th>
 </th>

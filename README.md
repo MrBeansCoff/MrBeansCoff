@@ -118,6 +118,21 @@
 ```bash
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
+
+<img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />
+
+div align="center">
+<table>
+<tr> 
+<th>
+<p align="center">
+<sub>BeansTivities☕︎</sub>
+</p>
+</th>
+</th>
+</table>
+</div>
+
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -159,4 +174,3 @@ endsolid
  C-->D;
  D-->A;
 ```
-<img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

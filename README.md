@@ -139,7 +139,6 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
    title Beans Day
 
    section Wake up make coffee
-       Make tea: 5: Me
-      Wake Up: 3: Me
+      Wake Up: 3: Me, Coffee
       Do Anything: 1: Me, Coffee
 ```

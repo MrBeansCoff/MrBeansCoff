@@ -119,27 +119,6 @@
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
-```geojson
- {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [40.4461, -79.9822]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+
 
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

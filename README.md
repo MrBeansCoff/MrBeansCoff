@@ -138,7 +138,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
  journey
    title MrBeansCoffs Day
 
-   section Wake up make coffee
+   section Wake up
       Make Coffee: 3: Me
       Drinking Coffee: 5: Me, Coffee
 

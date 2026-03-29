@@ -140,5 +140,5 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
    section Wake up make coffee
       Wake Up: 3: Me, Coffee
-      Do Anything: 1: Me, Coffee
+      Drinking Coffee?, drink coffee*: 1: Me, Coffee
 ```

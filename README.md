@@ -136,9 +136,13 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 ```mermaid
  journey
-   title Beans Day
+   title MrBeansCoffs Day
 
    section Wake up make coffee
       Wake Up: 3: Me, Coffee
-      Drinking Coffee?, drink coffee*: 1: Me, Coffee
+      Drinking Coffee: 1: Me, Coffee
+
+   section Ran out of coffee
+   Make more coffee: 3: Me
+   Drink more coffee: 2 Me, Coffee
 ```

@@ -119,6 +119,7 @@
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
+```stl
 solid coffee_mug
   facet normal 0 0 1
     outer loop
@@ -184,5 +185,5 @@ solid coffee_mug
   endfacet
 
 endsolid coffee_mug
-
+```
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

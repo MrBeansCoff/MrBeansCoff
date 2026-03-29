@@ -16,7 +16,8 @@
 <table>
   <tr>
     <th>Languages</th>
-    <th>Statistics</th>
+    <th>Stats</th>
+    <th>Streak</th>
   </tr>
 <!--LANGUAGE STATS-->
 <td>   
@@ -46,6 +47,8 @@
 
 <!--USER STATS-->
 <td>
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=MrBeansCoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 <p align="center">
@@ -63,6 +66,10 @@
    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrBeansCoff/MrBeansCoff?style=social" />
   </a>
 </p>
+</td>
+
+<td>
+  <img src="https://streak-stats.demolab.com?user=MrBeansCoff&theme=dark&hide_border=true" alt="MrBeansCoff's GitHub Stats" />
 </td>
 </table>
 

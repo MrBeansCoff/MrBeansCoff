@@ -135,10 +135,11 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
 
 ```mermaid
- graph TD;
+ journey
+   title Beans Day
 
- A-->B;
- B-->C;
- C-->D;
- D-->A;
+   section Wake up make coffee
+       Make tea: 5: Me
+      Wake Up: 3: Me
+      Do Anything: 1: Me, Coffee
 ```

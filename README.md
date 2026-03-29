@@ -139,10 +139,10 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
    title MrBeansCoffs Day
 
    section Wake up
-      Make Coffee: 3: Me
-      Drinking Coffee: 5: Me, Coffee
+      Make Coffee: 6: Me
+      Drinking Coffee: 10: Me, Coffee
 
    section Ran out of coffee
-   Make more coffee: 3: Me
-   Drink more coffee: 5: Me, Coffee
+   Make more coffee: 6: Me
+   Drink more coffee: 10: Me, Coffee
 ```

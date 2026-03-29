@@ -120,7 +120,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
 
 ```geojson
-{
+ {
   "type": "FeatureCollection",
   "features": [
     {
@@ -133,11 +133,7 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+              [40.4461, -79.9822]
           ]
         ]
       }
@@ -145,4 +141,5 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
   ]
 }
 ```
+
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

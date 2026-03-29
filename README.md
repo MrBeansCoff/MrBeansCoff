@@ -144,5 +144,5 @@ bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 
    section Ran out of coffee
    Make more coffee: 3: Me
-   Drink more coffee: 2 Me, Coffee
+   Drink more coffee: 2: Me, Coffee
 ```

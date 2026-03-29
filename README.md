@@ -118,72 +118,36 @@
 ```bash
 bc1q495nq88f03fgnpd4lw9rt2ktexff3qdyjdmqv4
 ```
-
 ```stl
-solid coffee_mug
-  facet normal 0 0 1
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
     outer loop
-      vertex 0 0 1
-      vertex 1 0 1
-      vertex 0.707 0.707 1
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
     endloop
   endfacet
-  facet normal 0 0 1
+  facet normal 0.0 0.0 -1.0
     outer loop
-      vertex 0 0 1
-      vertex 0.707 0.707 1
-      vertex 0 1 1
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
     endloop
   endfacet
-
-  // --- Bottom ---
-  facet normal 0 0 -1
+  facet normal -1.0 0.0 0.0
     outer loop
-      vertex 0 0 0
-      vertex 0.707 0.707 0
-      vertex 1 0 0
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
     endloop
   endfacet
-  facet normal 0 0 -1
+  facet normal 0.577 0.577 0.577
     outer loop
-      vertex 0 0 0
-      vertex 0 1 0
-      vertex 0.707 0.707 0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
     endloop
   endfacet
-
-  // --- Side walls (simplified) ---
-  facet normal 1 0 0
-    outer loop
-      vertex 1 0 0
-      vertex 1 0 1
-      vertex 0.707 0.707 1
-    endloop
-  endfacet
-  facet normal 1 0 0
-    outer loop
-      vertex 1 0 0
-      vertex 0.707 0.707 1
-      vertex 0.707 0.707 0
-    endloop
-  endfacet
-
- 
-  facet normal 0 1 0
-    outer loop
-      vertex 1.2 0.3 0.4
-      vertex 1.4 0.3 0.6
-      vertex 1.2 0.3 0.8
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex 1.2 0.3 0.4
-      vertex 1.2 0.3 0.8
-      vertex 1.0 0.3 0.6
-    endloop
-  endfacet
-
-endsolid coffee_mug
+endsolid
 ```
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4A2C29%20"  />

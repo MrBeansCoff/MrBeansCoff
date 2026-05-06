@@ -24,6 +24,8 @@
   
 <br></br>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/react-icons/react-icons@master/react-icons.sv" height="30" alt="React"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailswind"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

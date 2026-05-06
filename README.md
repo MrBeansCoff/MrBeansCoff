@@ -24,7 +24,7 @@
   
 <br></br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/tailwind-icons@1.0.1/+esm" />
+  <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

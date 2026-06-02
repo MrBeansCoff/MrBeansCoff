@@ -77,9 +77,21 @@
   <th>Projects</th>  
 </tr>
 <td>
+<div align="center">
 <a href="https://www.pageforge.space">  
 <img src="https://www.pageforge.space/assets/pageforge-lettering-header-KWTqEB6L.webp" alt="PageForge"/>
 </a>
+<p align="center">
+# ☕︎ Original Developer <a href="https://www.pageforge.space">@PageForge</a> ☕︎
+*Live page forging with database support.*
+
+<img width="50" src="https://www.pageforge.space/assets/pageforge-editor-split-preview-DCsrfC_H.png" alt="Visit https://www.pageforge.space"/>
+
+# Feautures
+  
+</p>
+  
+</div>
 </td>
 </table>
 

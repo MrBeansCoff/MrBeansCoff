@@ -9,7 +9,7 @@
 <sub>Café MrBean’s Coff ☕︎</sub>
 </p>
 </th>
-</th>
+</tr>
 </table>
 </div>
 
@@ -71,6 +71,15 @@
 
 <td>
   <img src="https://streak-stats.demolab.com?user=MrBeansCoff&theme=dark&hide_border=true" alt="MrBeansCoff's GitHub Stats" />
+</td>
+
+<tr>
+  <th>Projects</th>  
+</tr>
+<td>
+<a href="https://www.pageforge.space">  
+<img src="https://www.pageforge.space/assets/pageforge-lettering-header-KWTqEB6L.webp" alt="PageForge"/>
+</a>
 </td>
 </table>
 

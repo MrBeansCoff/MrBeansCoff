@@ -81,9 +81,9 @@
 <a href="https://www.pageforge.space">  
 <img src="https://www.pageforge.space/assets/pageforge-lettering-header-KWTqEB6L.webp" alt="PageForge"/>
 </a>
+# Short Description
 
-# ☕︎ Original Developer <a href="https://www.pageforge.space">@PageForge</a> ☕︎
-<img width="50" src="https://www.pageforge.space/assets/pageforge-editor-split-preview-DCsrfC_H.png" alt="Visit https://www.pageforge.space"/>   
+*Live page forging with database support.* 
 </div>
 </td>
 </table>

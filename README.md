@@ -74,7 +74,7 @@
 </td>
 
 <tr>
-  <th>Projects</th>  
+  <th>Mr Beans Sites.</th>  
 </tr>
 <td>
 <div align="center">

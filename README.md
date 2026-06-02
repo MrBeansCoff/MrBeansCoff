@@ -81,16 +81,9 @@
 <a href="https://www.pageforge.space">  
 <img src="https://www.pageforge.space/assets/pageforge-lettering-header-KWTqEB6L.webp" alt="PageForge"/>
 </a>
-<p align="center">
+
 # ☕︎ Original Developer <a href="https://www.pageforge.space">@PageForge</a> ☕︎
-*Live page forging with database support.*
-
-<img width="50" src="https://www.pageforge.space/assets/pageforge-editor-split-preview-DCsrfC_H.png" alt="Visit https://www.pageforge.space"/>
-
-# Feautures
-  
-</p>
-  
+<img width="50" src="https://www.pageforge.space/assets/pageforge-editor-split-preview-DCsrfC_H.png" alt="Visit https://www.pageforge.space"/>   
 </div>
 </td>
 </table>
@@ -120,11 +113,6 @@
 
 <!--DONTAIONS Sec-->
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourapiholb&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yourapiholb)
-
-<details>
-  <summary>Why Donations?</summary>
-  I don't know why for now...
-</details>
 
 
 [![Monero](https://img.shields.io/badge/Monero%20Donations%20Accepted-Wallet%20Address%20&%20QR%20%20Below-red?logo=monero)](https://www.kraken.com/prices/monero)
